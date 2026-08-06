@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am an M.Sc. student in the Graduate Program in Production Engineering and Systems (PPGEPS) at Pontifícia Universidade Católica do Paraná (PUCPR), Brazil. I hold a degree in Control and Automation Engineering from PUCPR.
+I am an M.Sc. student in the Industrial and Systems Engineering Graduate Program (PPGEPS) at Pontifícia Universidade Católica do Paraná (PUCPR), Brazil. I hold a degree in Control and Automation Engineering from PUCPR.
 
 Alongside my academic activities, I have been working since 1999 as an Electrical Design Engineer at Suzuki Indústria e Comércio de Máquinas Ltda., where I develop automation solutions for industrial laundry equipment. My work involves the design of electrical and pneumatic systems, PLC programming, integration of industrial drives and the adaptation of equipment to Brazilian regulatory standards such as NR-10 and NR-12.
 
