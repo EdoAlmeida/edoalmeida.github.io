@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-**M.Sc. in Production Engineering and Systems (ongoing)**  
+**M.Sc. in Industrial and Systems Engineering Graduate Program (ongoing)**  
 Pontifícia Universidade Católica do Paraná (PUCPR), Brazil  
 Advisor: Prof. Helon Vicente Hultmann Ayala  
 CAPES Scholarship
